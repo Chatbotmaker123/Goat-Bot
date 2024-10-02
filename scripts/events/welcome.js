@@ -3,11 +3,11 @@ const moment = require("moment-timezone");
 
 module.exports = {
 	config: {
-		name: "welcome",
+		name: "welcome nigga",
 		version: "1.0.3",
 		type: ["log:subscribe"],
 		author: {
-			name: "NTKhang",
+			name: "herana",
 			contacts: ""
 		},
 	},
