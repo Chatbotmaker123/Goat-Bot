@@ -1,7 +1,7 @@
 this.config = {
 	name: "uid",
 	version: "1.0.0",
-	author: { name: "NTKhang", contacts: "" },
+	author: { name: "herana", contacts: "" },
 	cooldowns: 5,
 	role: 0,
 	shortDescription: "Xem id",
